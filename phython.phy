@@ -1,0 +1,10 @@
+<?php
+$x=20; y=30
+function test()
+{
+	$y=$x+$y;
+
+}
+test();
+echo $y;
+?>
